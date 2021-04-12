@@ -24,6 +24,8 @@ namespace Enumeracoes
             OrderStatus os = Enum.Parse<OrderStatus>("Delivered");
 
             Console.WriteLine(os);
+
+            Console.WriteLine("Ola boturinha!");
         }
     }
 }
